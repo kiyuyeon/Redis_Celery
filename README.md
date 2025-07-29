@@ -115,5 +115,3 @@
 | 어떻게 구조를 짜야 하나요?       | **Celery가 Redis에 통계를 저장 → FastAPI가 Redis에서 꺼냄 → 클라이언트가 조회 or SSE** |
 
 ---
-
-필요하시면 각 계층별 예제 코드 (Celery Task, Redis 캐시 유틸, SSE 라우터, polling API)도 바로 구성해드릴게요. 어떤 부분부터 시작하고 싶은지 말씀해 주세요!
